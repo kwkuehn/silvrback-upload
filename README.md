@@ -6,7 +6,7 @@ You can now upload a blog article written in Github directly to your Silvrback b
   2. Locate the Silvrback Github repo here https://github.com/kwkuehn/silvrback-upload
   ![Settings Window](https://raw.github.com/kwkuehn/silvrback-upload/master/image/fork.png)
 
-  3. Go to your Github account and find this repo. As you can see from the image above, you create a new article by click the “New File” button. Use your article title as the file name.
+  3. Go to your Github account and find this repo. As you can see from the image above, you can create new article by clicking the “New File” button. Use your article title as the file name.
   ![Settings Window](https://raw.github.com/kwkuehn/silvrback-upload/master/image/article.png)
 
   4. After you finish writing your article, commit your article file. Create a pull request when you want to upload your Github article to your Silvrback account. You are done in Github.
