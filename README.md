@@ -13,4 +13,4 @@ You can now upload a blog article written in Github directly to your Silvrback b
   ![Settings Window](https://raw.github.com/kwkuehn/silvrback-upload/master/image/pull_request.png)
   ![Settings Window](https://raw.github.com/kwkuehn/silvrback-upload/master/image/done.png)
 
-If you edit or create a new article, just commit it and create a new pull request and you’re done. Don't forget to set your public profile email.
+If you edit or create a new article, just commit it and create a new pull request and you’re done. Be sure to set your profile email to public in order to complete this upload.
