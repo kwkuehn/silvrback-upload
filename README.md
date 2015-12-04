@@ -18,3 +18,4 @@ You can now upload a blog article written in Github directly to your Silvrback b
  ![Settings Window](https://raw.github.com/kwkuehn/silvrback-upload/master/image/pull_request.png)
  ![Settings Window](https://raw.github.com/kwkuehn/silvrback-upload/master/image/done.png)
 
+If you edit or create a new article, just commit files as described in step 4 and you’re finished :)
