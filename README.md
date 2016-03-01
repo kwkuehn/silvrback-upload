@@ -14,8 +14,8 @@ You can now upload a blog article written in Github directly to your Silvrback b
 
   5. Create a pull request when you want to upload your Github article to your Silvrback account. Once you have completed the pull request, you should find your article in your unpublished articles section of your blog. You will need to verify the upload and publish from your Silvrback account.
 
-  **N.B:** This step is required for first time use only. After you have done this step once, future article uploads will complete after execute step 4 above.
+  **N.B:** This step is required for first time use only. After you have done this step once, future article uploads will complete after you execute step 4 above.
  ![Settings Window](https://raw.github.com/kwkuehn/silvrback-upload/master/image/pull_request.png)
  ![Settings Window](https://raw.github.com/kwkuehn/silvrback-upload/master/image/done.png)
 
-If you edit or create a new article, just commit files as described in step 4 and you’re finished :)
+If you edit or create a new article, just commit the file as described in step 4 and you’ll be finished :)
