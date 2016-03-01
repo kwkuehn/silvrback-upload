@@ -1,7 +1,7 @@
 # Silvrback-Github Direct Upload Instructions
 You can now upload a blog article written in Github directly to your Silvrback blog. To do so, please follow the steps outlined below.
 
-  1. Login to your Github account. We will use your Github account email to find your Silvrback account. Therefore, make sure your Github account and Silvrback account emails are the same.
+  1. Login to your Github account. We will use your Github account email to find your Silvrback account. Therefore, make sure your Github account and Silvrback account emails are the same. Further, your Github email account must be public, which you can do through your Github account settings.
 
   2. Locate the Silvrback Github repo here https://github.com/kwkuehn/silvrback-upload and click the fork button. The Silvrback Github repo will then be connected to your Github account. Now you are ready to start writing your article.
   ![Settings Window](https://raw.github.com/kwkuehn/silvrback-upload/master/image/forku.png)
