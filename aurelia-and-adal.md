@@ -27,7 +27,7 @@ I think this was a bit short-sighted given the many other options out there (Aur
 works, so I'll say no more about it!
 
 So, back to the point.  To install into your Aurelia application, run the following command:
-```
+``` batch
 npm install --save adal-angular
 ```
 This will add it to your list of dependencies.
@@ -43,7 +43,7 @@ an expert, the time I spent on this helped my understanding enourmously.  One of
 was that they dropped ```jspm``` and started using RequireJs. I found this in the ```build/bundles/prepend``` part of 
 ```aurelia_project/aurelia.json```.  Any scripts that you place in the ```prepend``` array will be inserted at the beginning
 of the bundle that is created.  This is where I put ```adal-angular```:
-```
+``` json
 "bundles": [
     "prepend": [
           "node_modules/bluebird/js/browser/bluebird.core.js",
